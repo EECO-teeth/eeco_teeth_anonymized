@@ -1,5 +1,3 @@
-## Elizabeth to edit so that "Age" is replaced with "SampleID" then can merge into Chas_Dataset
-
 ##### Libraries #####
 
 library(stringr)
